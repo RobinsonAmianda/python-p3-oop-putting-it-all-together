@@ -1,4 +1,4 @@
-# Putting It All Together: Object-Oriented Programming Lab
+ # Putting It All Together: Object-Oriented Programming Lab
 
 ## Learning Goals
 
